@@ -39,7 +39,7 @@ public with sharing class ClassesObjectsMethods {
      * @return A list containing the length of the string, a substring of the string, and the string in lower case.
      */
     public static List<String> practiceStringMethods() {
-        // nitialize a String with 'Hello, Salesforce!'
+        // Initialize a String with 'Hello, Salesforce!'
         String helloSfdcGreeting = 'Hello, Salesforce!';
         
         // Gets the length of the String, substring of first 5 characters, and converts to lower case
